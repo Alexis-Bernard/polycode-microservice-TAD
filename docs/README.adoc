@@ -25,8 +25,9 @@ include::questions/02 - Authentication/index.adoc[]
 :imagesdir: questions/03 - IPC
 include::questions/03 - IPC/index.adoc[]
 
-<<<
 :sectnums!:
+
+<<<
 [glossary]
 == Glossary
 include::questions/00 - Introduction/glossary.adoc[]
